@@ -119,9 +119,8 @@ npm run dev
 - `/register` - Register Page
 
 ## Contributing
-Feel free to fork and contribute by submitting a pull request.
+Thankyou for following me Nexdhara
 
-## License
-This project is licensed under the MIT License.
+
 
 
