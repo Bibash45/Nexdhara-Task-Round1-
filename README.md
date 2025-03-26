@@ -117,6 +117,14 @@ npm run dev
 - `/edit/:id` - Edit Product (Admin Only)
 - `/login` - Login Page
 - `/register` - Register Page
+- 
+#### **For Env 
+- PORT=9000   
+- DATABASE=mongodb+srv://admin:admin123@cluster0.c4p0b.mongodb.net/nexdhara
+- NODE_ENV = development
+- JWT_SECRET="nexdhara nexdhara nexdhara nexdhara"
+- PAGE_LIMIT_SIZE=5
+
 
 ## Contributing
 Thankyou for following me Nexdhara
