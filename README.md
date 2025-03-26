@@ -119,8 +119,8 @@ npm run dev
 - `/register` - Register Page
 - 
 #### **For Env 
-- PORT=9000   
-- DATABASE=mongodb+srv://admin:admin123@cluster0.c4p0b.mongodb.net/nexdhara
+- PORT=9   
+- DATABASE=
 - NODE_ENV = development
 - JWT_SECRET="nexdhara nexdhara nexdhara nexdhara"
 - PAGE_LIMIT_SIZE=5
