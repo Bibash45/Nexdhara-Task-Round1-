@@ -118,7 +118,7 @@ npm run dev
 - `/login` - Login Page
 - `/register` - Register Page
 - 
-#### **For Env 
+#### **For Env**
 - PORT=9   
 - DATABASE=
 - NODE_ENV = development
